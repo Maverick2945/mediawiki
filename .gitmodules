@@ -134,3 +134,143 @@
 	path = vendor
 	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
 	branch = REL1_39
+[submodule "extensions/CreateWiki"]
+	path = extensions/CreateWiki
+	url = https://github.com/miraheze/CreateWiki.git
+	branch = master
+[submodule "extensions/ManageWiki"]
+	path = extensions/ManageWiki
+	url = https://github.com/miraheze/ManageWiki.git
+	branch = master
+[submodule "extensions/TitleKey"]
+	path = extensions/TitleKey
+	url = https://github.com/wikimedia/mediawiki-extensions-TitleKey.git
+	branch = REL1_39
+[submodule "extensions/Maps"]
+	path = extensions/Maps
+	url = https://github.com/ProfessionalWiki/Maps.git
+	branch = master
+[submodule "extensions/EmbedVideo"]
+	path = extensions/EmbedVideo
+	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo.git
+	branch = master
+[submodule "extensions/CommonsMetadata"]
+	path = extensions/CommonsMetadata
+	url = https://github.com/wikimedia/mediawiki-extensions-CommonsMetadata.git
+	branch = REL1_39
+[submodule "extensions/ParserHooks"]
+	path = extensions/ParserHooks
+	url = https://github.com/JeroenDeDauw/ParserHooks.git
+	branch = master
+[submodule "extensions/Validator"]
+	path = extensions/Validator
+	url = https://github.com/JeroenDeDauw/Validator.git
+	branch = master
+[submodule "extensions/Echo"]
+	path = extensions/Echo
+	url = https://github.com/wikimedia/mediawiki-extensions-Echo.git
+	branch = REL1_39
+[submodule "extensions/CookieWarning"]
+	path = extensions/CookieWarning
+	url = https://github.com/wikimedia/mediawiki-extensions-CookieWarning.git
+	branch = REL1_39
+[submodule "extensions/Bootstrap"]
+	path = extensions/Bootstrap
+	url = https://github.com/ProfessionalWiki/Bootstrap.git
+	branch = master
+[submodule "extensions/Network"]
+	path = extensions/Network
+	url = https://github.com/ProfessionalWiki/Network.git
+	branch = master
+[submodule "extensions/CodeMirror"]
+	path = extensions/CodeMirror
+	url = https://github.com/wikimedia/mediawiki-extensions-CodeMirror.git
+	branch = REL1_39
+[submodule "extensions/WikiSEO"]
+	path = extensions/WikiSEO
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiSEO.git
+	branch = REL1_39
+[submodule "extensions/UniversalLanguageSelector"]
+	path = extensions/UniversalLanguageSelector
+	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector.git
+	branch = REL1_39
+[submodule "extensions/Cargo"]
+	path = extensions/Cargo
+	url = https://github.com/wikimedia/mediawiki-extensions-Cargo.git
+	branch = REL1_39
+[submodule "extensions/PageForms"]
+	path = extensions/PageForms
+	url = https://github.com/wikimedia/mediawiki-extensions-PageForms.git
+	branch = REL1_39
+[submodule "extensions/Elastica"]
+	path = extensions/Elastica
+	url = https://github.com/wikimedia/mediawiki-extensions-Elastica.git
+	branch = REL1_39
+[submodule "extensions/CirrusSearch"]
+	path = extensions/CirrusSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-CirrusSearch.git
+	branch = REL1_39
+[submodule "extensions/AdvancedSearch"]
+	path = extensions/AdvancedSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-AdvancedSearch.git
+	branch = REL1_39
+[submodule "extensions/UserMerge"]
+	path = extensions/UserMerge
+	url = https://github.com/wikimedia/mediawiki-extensions-UserMerge.git
+	branch = REL1_39
+[submodule "extensions/CreateUserPage"]
+	path = extensions/CreateUserPage
+	url = https://github.com/wikimedia/mediawiki-extensions-CreateUserPage.git
+	branch = REL1_39
+[submodule "extensions/NewUserMessage"]
+	path = extensions/NewUserMessage
+	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage.git
+	branch = REL1_39
+[submodule "extensions/MagicNoCache"]
+	path = extensions/MagicNoCache
+	url = https://github.com/wikimedia/mediawiki-extensions-MagicNoCache.git
+	branch = REL1_39
+[submodule "extensions/HeaderFooter"]
+	path = extensions/HeaderFooter
+	url = https://github.com/enterprisemediawiki/HeaderFooter.git
+	branch = master
+[submodule "extensions/DisplayTitle"]
+	path = extensions/DisplayTitle
+	url = https://github.com/wikimedia/mediawiki-extensions-DisplayTitle.git
+	branch = REL1_39
+[submodule "extensions/HeaderTabs"]
+	path = extensions/HeaderTabs
+	url = https://github.com/wikimedia/mediawiki-extensions-HeaderTabs.git
+	branch = REL1_39
+[submodule "extensions/SemanticMediaWiki"]
+	path = extensions/SemanticMediaWiki
+	url = https://github.com/SemanticMediaWiki/SemanticMediaWiki.git
+	branch = master
+[submodule "extensions/ModernTimeline"]
+	path = extensions/ModernTimeline
+	url = https://github.com/ProfessionalWiki/ModernTimeline.git
+	branch = master
+[submodule "extensions/UserFunctions"]
+	path = extensions/UserFunctions
+	url = https://github.com/wikimedia/mediawiki-extensions-UserFunctions.git
+	branch = REL1_36
+[submodule "extensions/MassEditRegex"]
+	path = extensions/MassEditRegex
+	url = https://github.com/wikimedia/mediawiki-extensions-MassEditRegex.git
+	branch = REL1_39
+[submodule "extensions/RegexFunctions"]
+	path = extensions/RegexFunctions
+	url = https://github.com/wikimedia/mediawiki-extensions-RegexFunctions.git
+	branch = REL1_39
+[submodule "extensions/RevisionSlider"]
+	path = extensions/RevisionSlider
+	url = https://github.com/wikimedia/mediawiki-extensions-RevisionSlider.git
+	branch = REL1_39
+[submodule "skins/Medik"]
+	path = skins/Medik
+	url = https://bitbucket.org/wikiskripta/Medik.git
+	branch = master
+[submodule "skins/chameleon"]
+	path = skins/chameleon
+	url = https://github.com/ProfessionalWiki/Chameleon.git
+	branch = master
