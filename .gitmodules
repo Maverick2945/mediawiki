@@ -274,3 +274,9 @@
 	path = skins/chameleon
 	url = https://github.com/ProfessionalWiki/Chameleon.git
 	branch = master
+[submodule "extensions\\examples"]
+	path = extensions\\examples
+	url = https://github.com/wikimedia/mediawiki-extensions-examples.git
+[submodule "extensions/BoilerPlate"]
+	path = extensions/BoilerPlate
+	url = https://github.com/wikimedia/mediawiki-extensions-BoilerPlate
