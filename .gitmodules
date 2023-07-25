@@ -280,3 +280,6 @@
 [submodule "extensions/BoilerPlate"]
 	path = extensions/BoilerPlate
 	url = https://github.com/wikimedia/mediawiki-extensions-BoilerPlate
+[submodule "extensions/WikiAdmin"]
+	path = extensions/WikiAdmin
+	url = https://gitlab.com/caindle-cloud/mediawiki-extension-wikiadmin.git
