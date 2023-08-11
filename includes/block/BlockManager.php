@@ -195,7 +195,6 @@ class BlockManager {
 		} elseif ( count( $blocks ) === 1 ) {
 			return $blocks[ 0 ];
 		} else {
-			// @phan-suppress-next-line SecurityCheck-DoubleEscaped
 			return new CompositeBlock( [
 				'address' => $ip,
 				'reason' => new Message( 'blockedtext-composite-reason' ),
@@ -253,14 +252,12 @@ class BlockManager {
 		if ( !in_array( $ip, $this->options->get( MainConfigNames::ProxyWhitelist ) ) ) {
 			// Local list
 			if ( $this->isLocallyBlockedProxy( $ip ) ) {
-				// @phan-suppress-next-line SecurityCheck-DoubleEscaped
 				$blocks[] = new SystemBlock( [
 					'reason' => new Message( 'proxyblockreason' ),
 					'address' => $ip,
 					'systemBlock' => 'proxy',
 				] );
 			} elseif ( $isAnon && $this->isDnsBlacklisted( $ip ) ) {
-				// @phan-suppress-next-line SecurityCheck-DoubleEscaped
 				$blocks[] = new SystemBlock( [
 					'reason' => new Message( 'sorbsreason' ),
 					'address' => $ip,
@@ -272,7 +269,6 @@ class BlockManager {
 
 		// Soft blocking
 		if ( $isAnon && IPUtils::isInRanges( $ip, $this->options->get( MainConfigNames::SoftBlockRanges ) ) ) {
-			// @phan-suppress-next-line SecurityCheck-DoubleEscaped
 			$blocks[] = new SystemBlock( [
 				'address' => $ip,
 				'reason' => new Message( 'softblockrangesreason', [ $ip ] ),
@@ -303,7 +299,15 @@ class BlockManager {
 			$xff = array_map( 'trim', explode( ',', $xff ) );
 			$xff = array_diff( $xff, [ $ip ] );
 			// TODO: remove dependency on DatabaseBlock (T221075)
-			return DatabaseBlock::getBlocksForIPList( $xff, $isAnon, $fromPrimary );
+			$xffblocks = DatabaseBlock::getBlocksForIPList( $xff, $isAnon, $fromPrimary );
+
+			// (T285159) Exclude autoblocks from XFF headers to prevent spoofed
+			// headers uncovering the IPs of autoblocked users
+			$xffblocks = array_filter( $xffblocks, static function ( $block ) {
+				return $block->getType() !== Block::TYPE_AUTO;
+			} );
+
+			return $xffblocks;
 		}
 
 		return [];

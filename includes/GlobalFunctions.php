@@ -20,10 +20,6 @@
  * @file
  */
 
-if ( !defined( 'MEDIAWIKI' ) ) {
-	die( "This file is part of MediaWiki, it is not a valid entry point" );
-}
-
 use MediaWiki\Logger\LoggerFactory;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\ProcOpenError;
@@ -1983,7 +1979,6 @@ function wfQueriesMustScale() {
 function wfScript( $script = 'index' ) {
 	global $wgScriptPath, $wgScript, $wgLoadScript;
 	if ( $script === 'index' ) {
-		// @phan-suppress-next-line PhanPossiblyUndeclaredVariable False positive
 		return $wgScript;
 	} elseif ( $script === 'load' ) {
 		return $wgLoadScript;

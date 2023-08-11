@@ -49,7 +49,9 @@
 			"Wintereu",
 			"XXN",
 			"לערי ריינהארט",
-			"아라"
+			"아라",
+			"Matěj Suchánek",
+			"Amire80"
 		]
 	},
 	"tog-underline": "Sublinierea legăturilor:",
@@ -520,7 +522,7 @@
 	"mailerror": "Eroare la trimitere e-mail: $1",
 	"acct_creation_throttle_hit": "De la această adresă IP, vizitatorii sitului au creat {{PLURAL:$1|1 cont|$1 conturi|$1 de conturi}} de utilizator în ultimele $2, acest număr de noi conturi fiind maximul admis în această perioadă de timp.\nPrin urmare, vizitatorii care folosesc același IP nu mai pot crea alte conturi pentru moment.",
 	"emailauthenticated": "Adresa de e-mail a fost autentificată pe $2, la $3.",
-	"emailnotauthenticated": "Adresa dumneavoastră de e-mail nu este autentificată încă. Nici un e-mail nu va fi trimis pentru nici una din întrebuințările următoare.",
+	"emailnotauthenticated": "Adresa dumneavoastră de e-mail nu este autentificată încă. Niciun e-mail nu va fi trimis pentru niciuna din întrebuințările următoare.",
 	"noemailprefs": "Nu a fost specificată o adresă email, următoarele nu vor funcționa.",
 	"emailconfirmlink": "Confirmați adresa dvs. de email",
 	"invalidemailaddress": "Adresa de email nu a putut fi acceptată pentru că pare a avea un format invalid. Vă rugăm să reintroduceți o adresă bine formatată sau să goliți acel câmp.",
@@ -769,6 +771,7 @@
 	"postedit-confirmation-restored": "Pagina a fost restaurată.",
 	"postedit-confirmation-saved": "Modificarea dumneavoastră a fost salvată.",
 	"postedit-confirmation-published": "Editarea dumneavoastră a fost publicată.",
+	"postedit-temp-created-label": "Cont temporar",
 	"edit-already-exists": "Pagina nouă nu a putut fi creată.\nEa există deja.",
 	"defaultmessagetext": "Textul implicit",
 	"content-failed-to-parse": "Nu s-a putut analiza conținutul de tip $2 pentru modelul $1: $3",
@@ -2613,7 +2616,7 @@
 	"ipb-confirm": "Confirmare blocare",
 	"ipb-sitewide": "Pe site",
 	"ipb-partial": "Parțial",
-	"ipb-sitewide-help": "Blockează editarea pe toate paginile și spatiile de nume. Blochează de asemenea acțiunile implicite ([https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Blocking_users Vezi pagina de ajutor])",
+	"ipb-sitewide-help": "Blochează editarea pe toate paginile și spatiile de nume. Blochează de asemenea acțiunile implicite ([https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Blocking_users Vezi pagina de ajutor])",
 	"ipb-partial-help": "Vă permite să selectați paginile și spatiile de nume de blocat. Nu blochează acțiunile implicite, dar vă lasă să blocati anumite acțiuni specifice.",
 	"ipb-action-create": "Crearea de pagini noi",
 	"ipb-action-move": "Redenumirea paginilor",
