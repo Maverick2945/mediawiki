@@ -134,3 +134,105 @@
 	path = vendor
 	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
 	branch = REL1_39
+[submodule "extensions/CookieWarning"]
+	path = extensions/CookieWarning
+	url = https://github.com/wikimedia/mediawiki-extensions-CookieWarning.git
+[submodule "extensions/Bootstrap"]
+	path = extensions/Bootstrap
+	url = https://github.com/ProfessionalWiki/Bootstrap.git
+[submodule "extensions/CirrusSearch"]
+	path = extensions/CirrusSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-CirrusSearch.git
+[submodule "extensions/Elastica"]
+	path = extensions/Elastica
+	url = https://github.com/wikimedia/mediawiki-extensions-Elastica.git
+[submodule "extensions/WikiAdmin"]
+	path = extensions/WikiAdmin
+	url = https://gitlab.com/caindle-cloud/mediawiki-extension-wikiadmin.git
+[submodule "extensions/TitleKey"]
+	path = extensions/TitleKey
+	url = https://github.com/wikimedia/mediawiki-extensions-TitleKey.git
+[submodule "extensions/Maps"]
+	path = extensions/Maps
+	url = https://github.com/ProfessionalWiki/Maps.git
+[submodule "extensions/EmbedVideo"]
+	path = extensions/EmbedVideo
+	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo.git
+[submodule "extensions/ParserHooks"]
+	path = extensions/ParserHooks
+	url = https://github.com/JeroenDeDauw/ParserHooks.git
+[submodule "extensions/Validator"]
+	path = extensions/Validator
+	url = https://github.com/JeroenDeDauw/Validator.git
+[submodule "extensions/Echo"]
+	path = extensions/Echo
+	url = https://github.com/wikimedia/mediawiki-extensions-Echo.git
+[submodule "extensions/Network"]
+	path = extensions/Network
+	url = https://github.com/ProfessionalWiki/Network.git
+[submodule "extensions/CodeMirror"]
+	path = extensions/CodeMirror
+	url = https://github.com/wikimedia/mediawiki-extensions-CodeMirror.git
+[submodule "extensions/WikiSEO"]
+	path = extensions/WikiSEO
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiSEO.git
+[submodule "extensions/UniversalLanguageSelector"]
+	path = extensions/UniversalLanguageSelector
+	url = https://github.com/wikimedia/mediawiki-extensions-UniversalLanguageSelector.git
+[submodule "extensions/Cargo"]
+	path = extensions/Cargo
+	url = https://github.com/wikimedia/mediawiki-extensions-Cargo.git
+[submodule "extensions/PageForms"]
+	path = extensions/PageForms
+	url = https://github.com/wikimedia/mediawiki-extensions-PageForms.git
+[submodule "extensions/AdvancedSearch"]
+	path = extensions/AdvancedSearch
+	url = https://github.com/wikimedia/mediawiki-extensions-AdvancedSearch.git
+[submodule "extensions/UserMerge"]
+	path = extensions/UserMerge
+	url = https://github.com/wikimedia/mediawiki-extensions-UserMerge.git
+[submodule "extensions/CreateUserPage"]
+	path = extensions/CreateUserPage
+	url = https://github.com/wikimedia/mediawiki-extensions-CreateUserPage.git
+[submodule "extensions/NewUserMessage"]
+	path = extensions/NewUserMessage
+	url = https://github.com/wikimedia/mediawiki-extensions-NewUserMessage.git
+[submodule "extensions/MagicNoCache"]
+	path = extensions/MagicNoCache
+	url = https://github.com/wikimedia/mediawiki-extensions-MagicNoCache.git
+[submodule "extensions/HeaderFooter"]
+	path = extensions/HeaderFooter
+	url = https://github.com/enterprisemediawiki/HeaderFooter.git
+[submodule "extensions/DisplayTitle"]
+	path = extensions/DisplayTitle
+	url = https://github.com/wikimedia/mediawiki-extensions-DisplayTitle.git
+[submodule "extensions/HeaderTabs"]
+	path = extensions/HeaderTabs
+	url = https://github.com/wikimedia/mediawiki-extensions-HeaderTabs.git
+[submodule "extensions/SemanticMediaWiki"]
+	path = extensions/SemanticMediaWiki
+	url = https://github.com/SemanticMediaWiki/SemanticMediaWiki.git
+[submodule "extensions/ModernTimeline"]
+	path = extensions/ModernTimeline
+	url = https://github.com/ProfessionalWiki/ModernTimeline.git
+[submodule "extensions/UserFunctions"]
+	path = extensions/UserFunctions
+	url = https://github.com/wikimedia/mediawiki-extensions-UserFunctions.git
+[submodule "https://github.com/wikimedia/mediawiki-extensions-MassEditRegex.git"]
+	path = https://github.com/wikimedia/mediawiki-extensions-MassEditRegex.git
+	url = extensions/MassEditRegex
+[submodule "extensions/MassEditRegex"]
+	path = extensions/MassEditRegex
+	url = https://github.com/wikimedia/mediawiki-extensions-MassEditRegex.git
+[submodule "extensions/RegexFunctions"]
+	path = extensions/RegexFunctions
+	url = https://github.com/wikimedia/mediawiki-extensions-RegexFunctions.git
+[submodule "extensions/RevisionSlider"]
+	path = extensions/RevisionSlider
+	url = https://github.com/wikimedia/mediawiki-extensions-RevisionSlider.git
+[submodule "skins/Medik"]
+	path = skins/Medik
+	url = https://bitbucket.org/wikiskripta/Medik.git
+[submodule "skins/chameleon"]
+	path = skins/chameleon
+	url = https://github.com/ProfessionalWiki/Chameleon.git
