@@ -236,3 +236,45 @@
 [submodule "skins/chameleon"]
 	path = skins/chameleon
 	url = https://github.com/ProfessionalWiki/Chameleon.git
+[submodule "extensions/Comments"]
+	path = extensions/Comments
+	url = https://github.com/wikimedia/mediawiki-extensions-Comments
+[submodule "extensions/ContentStabilization"]
+	path = extensions/ContentStabilization
+	url = https://github.com/wikimedia/mediawiki-extensions-ContentStabilization
+[submodule "extensions/AccessControl"]
+	path = extensions/AccessControl
+	url = https://github.com/wikimedia/mediawiki-extensions-AccessControl
+[submodule "extensions/DrawioEditor"]
+	path = extensions/DrawioEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-DrawioEditor
+[submodule "extensions/TorBlock"]
+	path = extensions/TorBlock
+	url = https://github.com/wikimedia/mediawiki-extensions-TorBlock
+[submodule "extensions/ApprovedRevs"]
+	path = extensions/ApprovedRevs
+	url = https://github.com/wikimedia/mediawiki-extensions-ApprovedRevs
+[submodule "extensions/RelatedArticles"]
+	path = extensions/RelatedArticles
+	url = https://github.com/wikimedia/mediawiki-extensions-RelatedArticles
+[submodule "extensions/Lockdown"]
+	path = extensions/Lockdown
+	url = https://github.com/wikimedia/mediawiki-extensions-Lockdown
+[submodule "extensions/Translate"]
+	path = extensions/Translate
+	url = https://github.com/wikimedia/mediawiki-extensions-Translate
+[submodule "extensions/Popups"]
+	path = extensions/Popups
+	url = https://github.com/wikimedia/mediawiki-extensions-Popups
+[submodule "extensions/LabeledSectionTransclusion"]
+	path = extensions/LabeledSectionTransclusion
+	url = https://github.com/wikimedia/mediawiki-extensions-LabeledSectionTransclusion
+[submodule "extensions/ElectronPdfService"]
+	path = extensions/ElectronPdfService
+	url = https://github.com/wikimedia/mediawiki-extensions-ElectronPdfService
+[submodule "extensions/PdfBook"]
+	path = extensions/PdfBook
+	url = https://github.com/debtcompliance/PdfBook
+[submodule "extensions/Collection"]
+	path = extensions/Collection
+	url = https://github.com/wikimedia/mediawiki-extensions-Collection
