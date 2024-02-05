@@ -195,7 +195,10 @@
 			"아라",
 			"Gaultier",
 			"SleaY",
-			"Eleassar"
+			"Eleassar",
+			"Obscaeris",
+			"Iketsi",
+			"Wnagxsi"
 		]
 	},
 	"tog-underline": "Soulignement des liens :",
@@ -1325,7 +1328,7 @@
 	"prefs-help-email-required": "Une adresse de courriel est requise.",
 	"prefs-help-requireemail": "Cela améliore la confidentialité et aide à éviter les courriels non sollicités.",
 	"prefs-info": "Informations de base",
-	"prefs-i18n": "Internationalisation",
+	"prefs-i18n": "Préférences langagières",
 	"prefs-signature": "Signature",
 	"prefs-signature-invalid-warning": "Votre signature peut poser problème à certains outils.",
 	"prefs-signature-invalid-new": "Votre signature actuelle n’est pas valide. Bien que vous puissiez encore l’utiliser, pour ne pourrez pas en changer sans la corriger.",
@@ -1633,7 +1636,7 @@
 	"recentchanges-legend-watchlistexpiry": "Page suivie temporairement",
 	"recentchanges-submit": "Lister",
 	"rcfilters-tag-remove": "Retirer « $1 »",
-	"rcfilters-legend-heading": "<strong>Légende des abréviations :</strong>",
+	"rcfilters-legend-heading": "<strong>Liste des abréviations :</strong>",
 	"rcfilters-other-review-tools": "Autres outils de relecture",
 	"rcfilters-group-results-by-page": "Grouper les résultats par page",
 	"rcfilters-activefilters": "Filtres actifs",
@@ -2599,7 +2602,7 @@
 	"changecontentmodel-success-title": "Le modèle de contenu a été modifié",
 	"changecontentmodel-success-text": "Le modèle de contenu de [[:$1]] a été modifié.",
 	"changecontentmodel-cannot-convert": "Le contenu sur [[:$1]] n’a pas pu être converti en un type de $2.",
-	"changecontentmodel-nodirectediting": "Le modèle de contenu $1 ne permet pas la modification directe",
+	"changecontentmodel-nodirectediting": "Le modèle de contenu $1 ne prend pas en charge la modification directe",
 	"changecontentmodel-emptymodels-title": "Aucun modèle de contenu disponible",
 	"changecontentmodel-emptymodels-text": "Le contenu sur [[:$1]] ne peut être converti en aucun type.",
 	"log-name-contentmodel": "Journal des modifications de modèle de contenu",
@@ -3176,7 +3179,7 @@
 	"interlanguage-link-title-nonlang": "$1 – $2",
 	"common.css": "/* Le CSS placé ici sera appliqué à tous les habillages. */",
 	"print.css": "/* Le CSS placé ici affectera les impressions. */",
-	"noscript.css": "/* Le CSS placé ici affectera les utilisateurs ayant désactivé Javascript. */",
+	"noscript.css": "/* Le CSS placé ici affectera les utilisateurs ayant désactivé JavaScript. */",
 	"group-autoconfirmed.css": "/* Le CSS placé ici n’affectera que les utilisateurs autoconfirmés. */",
 	"group-user.css": "/* Le CSS placé ici n’affectera que les utilisateurs enregistrés. */",
 	"group-bot.css": "/* Le CSS placé ici n’affectera que les robots. */",
@@ -4359,8 +4362,8 @@
 	"parsoid-stash-rate-limit-error": "La dissimulation a échoué parce que le taux limite d’utilisation a été dépassé. Veuillez essayer à nouveau plus tard.",
 	"parsoid-resource-limit-exceeded": "Limite de ressources de Parsoid dépassée : $1",
 	"parsoid-client-error": "Entrée de Parsoid non valide : $1",
-	"newpages-showhide-bots": "$1 robot(s)",
-	"newpages-showhide-patrolled": "$1 modification(s) patrouillée(s)",
-	"newpages-showhide-redirect": "$1 redirections(s)",
-	"newpages-showhide-registered": "$1 utilisateur(s) inscrit(s)"
+	"newpages-showhide-bots": "$1 les robots",
+	"newpages-showhide-patrolled": "$1 les modifications patrouillées",
+	"newpages-showhide-redirect": "$1 les redirections",
+	"newpages-showhide-registered": "$1 les utilisateurs inscrits"
 }
