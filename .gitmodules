@@ -278,3 +278,6 @@
 [submodule "extensions/Collection"]
 	path = extensions/Collection
 	url = https://github.com/wikimedia/mediawiki-extensions-Collection
+[submodule "extensions/Checklists"]
+	path = extensions/Checklists
+	url = https://github.com/wikimedia/mediawiki-extensions-Checklists
