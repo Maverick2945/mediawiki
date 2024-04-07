@@ -155,6 +155,9 @@
 [submodule "extensions/Maps"]
 	path = extensions/Maps
 	url = https://github.com/ProfessionalWiki/Maps.git
+[submodule "extensions/EmbedVideo"]
+	path = extensions/EmbedVideo
+	url = https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo
 [submodule "extensions/ParserHooks"]
 	path = extensions/ParserHooks
 	url = https://github.com/JeroenDeDauw/ParserHooks.git
