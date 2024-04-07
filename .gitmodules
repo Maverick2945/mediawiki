@@ -155,9 +155,6 @@
 [submodule "extensions/Maps"]
 	path = extensions/Maps
 	url = https://github.com/ProfessionalWiki/Maps.git
-[submodule "extensions/EmbedVideo"]
-	path = extensions/EmbedVideo
-	url = https://gitlab.com/hydrawiki/extensions/EmbedVideo.git
 [submodule "extensions/ParserHooks"]
 	path = extensions/ParserHooks
 	url = https://github.com/JeroenDeDauw/ParserHooks.git
