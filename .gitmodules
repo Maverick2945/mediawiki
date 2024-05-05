@@ -314,3 +314,6 @@
 [submodule "extensions/LDAPAuthorization"]
 	path = extensions/LDAPAuthorization
 	url = https://github.com/wikimedia/mediawiki-extensions-LDAPAuthorization
+[submodule "extensions/LDAPUserInfo"]
+	path = extensions/LDAPUserInfo
+	url = https://github.com/wikimedia/mediawiki-extensions-LDAPUserInfo
