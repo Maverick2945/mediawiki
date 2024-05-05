@@ -305,3 +305,6 @@
 [submodule "extensions/PluggableAuth"]
 	path = extensions/PluggableAuth
 	url = https://github.com/wikimedia/mediawiki-extensions-PluggableAuth
+[submodule "extensions/LDAPProvider"]
+	path = extensions/LDAPProvider
+	url = https://github.com/wikimedia/mediawiki-extensions-LDAPProvider
