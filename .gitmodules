@@ -293,3 +293,6 @@
 [submodule "extensions/LinkTitles"]
 	path = extensions/LinkTitles
 	url = https://github.com/bovender/LinkTitles
+[submodule "extensions/BlueSpicePrivacy"]
+	path = extensions/BlueSpicePrivacy
+	url = https://github.com/wikimedia/mediawiki-extensions-BlueSpicePrivacy
