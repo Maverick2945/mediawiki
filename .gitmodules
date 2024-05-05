@@ -296,3 +296,6 @@
 [submodule "extensions/BlueSpicePrivacy"]
 	path = extensions/BlueSpicePrivacy
 	url = https://github.com/wikimedia/mediawiki-extensions-BlueSpicePrivacy
+[submodule "extensions/UserAgreement"]
+	path = extensions/UserAgreement
+	url = https://github.com/wikimedia/mediawiki-extensions-UserAgreement
