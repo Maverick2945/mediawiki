@@ -299,3 +299,6 @@
 [submodule "extensions/UserAgreement"]
 	path = extensions/UserAgreement
 	url = https://github.com/wikimedia/mediawiki-extensions-UserAgreement
+[submodule "extensions/ImportUsers"]
+	path = extensions/ImportUsers
+	url = https://github.com/wikimedia/mediawiki-extensions-ImportUsers
