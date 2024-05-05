@@ -308,3 +308,6 @@
 [submodule "extensions/LDAPProvider"]
 	path = extensions/LDAPProvider
 	url = https://github.com/wikimedia/mediawiki-extensions-LDAPProvider
+[submodule "extensions/LDAPAuthentication2"]
+	path = extensions/LDAPAuthentication2
+	url = https://github.com/wikimedia/mediawiki-extensions-LDAPAuthentication2
