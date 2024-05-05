@@ -302,3 +302,6 @@
 [submodule "extensions/ImportUsers"]
 	path = extensions/ImportUsers
 	url = https://github.com/wikimedia/mediawiki-extensions-ImportUsers
+[submodule "extensions/PluggableAuth"]
+	path = extensions/PluggableAuth
+	url = https://github.com/wikimedia/mediawiki-extensions-PluggableAuth
