@@ -317,3 +317,6 @@
 [submodule "extensions/LDAPUserInfo"]
 	path = extensions/LDAPUserInfo
 	url = https://github.com/wikimedia/mediawiki-extensions-LDAPUserInfo
+[submodule "extensions/LDAPGroups"]
+	path = extensions/LDAPGroups
+	url = https://github.com/wikimedia/mediawiki-extensions-LDAPGroups
