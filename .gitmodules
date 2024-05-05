@@ -290,3 +290,6 @@
 [submodule "extensions/CentralNotice"]
 	path = extensions/CentralNotice
 	url = https://github.com/wikimedia/mediawiki-extensions-CentralNotice
+[submodule "extensions/LinkTitles"]
+	path = extensions/LinkTitles
+	url = https://github.com/bovender/LinkTitles
