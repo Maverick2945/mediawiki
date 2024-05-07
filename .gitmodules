@@ -320,3 +320,6 @@
 [submodule "extensions/LDAPGroups"]
 	path = extensions/LDAPGroups
 	url = https://github.com/wikimedia/mediawiki-extensions-LDAPGroups
+[submodule "extensions/Lingo"]
+	path = extensions/Lingo
+	url = https://github.com/wikimedia/mediawiki-extensions-Lingo
