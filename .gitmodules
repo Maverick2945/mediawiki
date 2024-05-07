@@ -326,3 +326,6 @@
 [submodule "extensions/HitCounters"]
 	path = extensions/HitCounters
 	url = https://github.com/wikimedia/mediawiki-extensions-HitCounters
+[submodule "extensions/SandboxLink"]
+	path = extensions/SandboxLink
+	url = https://github.com/wikimedia/mediawiki-extensions-SandboxLink
