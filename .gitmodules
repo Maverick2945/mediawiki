@@ -323,3 +323,6 @@
 [submodule "extensions/Lingo"]
 	path = extensions/Lingo
 	url = https://github.com/wikimedia/mediawiki-extensions-Lingo
+[submodule "extensions/HitCounters"]
+	path = extensions/HitCounters
+	url = https://github.com/wikimedia/mediawiki-extensions-HitCounters
