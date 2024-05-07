@@ -329,3 +329,6 @@
 [submodule "extensions/SandboxLink"]
 	path = extensions/SandboxLink
 	url = https://github.com/wikimedia/mediawiki-extensions-SandboxLink
+[submodule "extensions/MobileFrontend"]
+	path = extensions/MobileFrontend
+	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend
