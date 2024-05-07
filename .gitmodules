@@ -332,3 +332,6 @@
 [submodule "extensions/MobileFrontend"]
 	path = extensions/MobileFrontend
 	url = https://github.com/wikimedia/mediawiki-extensions-MobileFrontend
+[submodule "extensions/OpenIDConnect"]
+	path = extensions/OpenIDConnect
+	url = https://github.com/wikimedia/mediawiki-extensions-OpenIDConnect
