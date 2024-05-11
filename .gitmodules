@@ -335,6 +335,6 @@
 [submodule "extensions/OpenIDConnect"]
 	path = extensions/OpenIDConnect
 	url = https://github.com/wikimedia/mediawiki-extensions-OpenIDConnect
-[submodule "xtensions/EventLogging"]
-	path = xtensions/EventLogging
+[submodule "extensions/EventLogging"]
+	path = extensions/EventLogging
 	url = https://github.com/wikimedia/mediawiki-extensions-EventLogging
