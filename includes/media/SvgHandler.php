@@ -283,7 +283,7 @@ class SvgHandler extends ImageHandler {
 				wfMessage( 'thumbnail-temp-create' )->text()
 			);
 		}
-		$ok = symlink( $srcPath, $lnPath );
+		$ok = symlink( '/app/w/' . $srcPath, $lnPath );
 		/** @noinspection PhpUnusedLocalVariableInspection */
 		$cleaner = new ScopedCallback( static function () use ( $tmpDir, $lnPath ) {
 			AtEase::suppressWarnings();
