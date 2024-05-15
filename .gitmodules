@@ -338,3 +338,6 @@
 [submodule "extensions/EventLogging"]
 	path = extensions/EventLogging
 	url = https://github.com/wikimedia/mediawiki-extensions-EventLogging
+[submodule "extensions/ContentDroplets"]
+	path = extensions/ContentDroplets
+	url = https://github.com/wikimedia/mediawiki-extensions-ContentDroplets
