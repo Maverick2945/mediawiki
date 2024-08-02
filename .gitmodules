@@ -350,3 +350,6 @@
 [submodule "extensions/HidePrefix"]
 	path = extensions/HidePrefix
 	url = https://github.com/wikimedia/mediawiki-extensions-HidePrefix
+[submodule "extensions/EditAccount"]
+	path = extensions/EditAccount
+	url = https://github.com/wikimedia/mediawiki-extensions-EditAccount
