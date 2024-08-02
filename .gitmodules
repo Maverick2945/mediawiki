@@ -344,3 +344,6 @@
 [submodule "extensions/Mermaid"]
 	path = extensions/Mermaid
 	url = https://github.com/SemanticMediaWiki/Mermaid
+[submodule "extensions/CSS"]
+	path = extensions/CSS
+	url = https://github.com/wikimedia/mediawiki-extensions-CSS
