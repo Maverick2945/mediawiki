@@ -341,3 +341,6 @@
 [submodule "extensions/ContentDroplets"]
 	path = extensions/ContentDroplets
 	url = https://github.com/wikimedia/mediawiki-extensions-ContentDroplets
+[submodule "extensions/Mermaid"]
+	path = extensions/Mermaid
+	url = https://github.com/SemanticMediaWiki/Mermaid
