@@ -347,3 +347,6 @@
 [submodule "extensions/CSS"]
 	path = extensions/CSS
 	url = https://github.com/wikimedia/mediawiki-extensions-CSS
+[submodule "extensions/HidePrefix"]
+	path = extensions/HidePrefix
+	url = https://github.com/wikimedia/mediawiki-extensions-HidePrefix
