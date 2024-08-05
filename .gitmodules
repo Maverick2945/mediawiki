@@ -353,3 +353,6 @@
 [submodule "extensions/EditAccount"]
 	path = extensions/EditAccount
 	url = https://github.com/wikimedia/mediawiki-extensions-EditAccount
+[submodule "extensions/CaindleAPI_MuseumWiesbaden"]
+	path = extensions/CaindleAPI_MuseumWiesbaden
+	url = https://gitlab.com/caindle-cloud/mediawiki-extension-caindleapi-museumwiesbaden.git
