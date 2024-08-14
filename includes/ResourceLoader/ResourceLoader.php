@@ -761,6 +761,7 @@ class ResourceLoader implements LoggerAwareInterface {
 		// the whole thing in our own output buffer to be sure the active buffer
 		// doesn't use ob_gzhandler.
 		// See https://bugs.php.net/bug.php?id=36514
+		ob_clean();
 		ob_start();
 
 		$responseTime = $this->measureResponseTime();
