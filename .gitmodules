@@ -359,3 +359,6 @@
 [submodule "extensions/PDFEmbed"]
 	path = extensions/PDFEmbed
 	url = https://github.com/miraheze/PDFEmbed
+[submodule "extensions/PreToClip"]
+	path = extensions/PreToClip
+	url = https://github.com/wikimedia/mediawiki-extensions-PreToClip.git
