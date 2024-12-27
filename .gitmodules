@@ -356,3 +356,6 @@
 [submodule "extensions/CaindleAPI_MuseumWiesbaden"]
 	path = extensions/CaindleAPI_MuseumWiesbaden
 	url = https://gitlab.com/caindle-cloud/mediawiki-extension-caindleapi-museumwiesbaden.git
+[submodule "extensions/PDFEmbed"]
+	path = extensions/PDFEmbed
+	url = https://github.com/miraheze/PDFEmbed
