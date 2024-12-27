@@ -26,7 +26,7 @@
 			"לערי ריינהארט",
 			"아라",
 			80686,
-			"Amire80"
+			"Matma Rex"
 		]
 	},
 	"tog-underline": "Links unterstryche:",
@@ -665,8 +665,6 @@
 	"editpage-notsupportedcontentformat-text": "S Inhaltsformat $1 wird vum Inhaltsmodäll $2 nit unterstitzt.",
 	"content-model-wikitext": "Wikitext",
 	"content-model-text": "Klartext",
-	"content-model-javascript": "JavaScript",
-	"content-model-css": "CSS",
 	"content-json-empty-object": "Läärs Objekt",
 	"content-json-empty-array": "Läären Array",
 	"duplicate-args-warning": "<strong>Obacht:</strong> D Syte [[:$1]] rüefft [[:$2]] ab. Im Abrueff het der Parameter «$3» meh weder ei Wärt. Nume der letst Wärt chunt zum Zug.",
@@ -2044,7 +2042,6 @@
 	"ipb_blocked_as_range": "Fähler: D IP-Adräss $1 isch as Teil vu dr Beryychssperri $2 indirekt gsperrt. S isch nit megli, nume $1 z entsperre.",
 	"ip_range_invalid": "Uugiltige IP-Adrässberyych.",
 	"ip_range_toolarge": "Adrässberyych, wu greßer sin wie /$1, sin nit erlaubt.",
-	"proxyblocker": "Proxy blocker",
 	"proxyblockreason": "Dyni IP-Adrässe isch gsperrt wore, wel si ne ufige Proxy isch. Bitte kontaktier Dyyn Internet-Provider oder Dyni Systemadministratore un informier si iber des Sicherheitsproblem.",
 	"sorbsreason": "D IP-Adräss isch in dr DNSBL vu {{SITENAME}} as uffige PROXY glischtet.",
 	"sorbs_create_account_reason": "D IP-Adräss isch in dr DNSBL vu {{SITENAME}} as uffige PROXY glischtet. S Aalege vu neije Benutzer isch nit megli.",

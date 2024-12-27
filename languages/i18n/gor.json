@@ -1,7 +1,6 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80",
 			"Ilham",
 			"Lukman Tomayahu",
 			"Marwan Mohamad",
@@ -668,7 +667,6 @@
 	"slot-name-main": "Uda'a",
 	"content-model-wikitext": "tuladu wiki",
 	"content-model-text": "teks polos",
-	"content-model-javascript": "JavaScript",
 	"content-json-empty-object": "Obyek ja otuwa",
 	"content-json-empty-array": "Barisi ja otuwa",
 	"unsupported-content-model": "<strong>Awasi:</strong> Model konten $1 ja dilukungi to wiki botiya.",
@@ -715,7 +713,7 @@
 	"currentrev-asof": "Biloli'o pulitiyo to $1",
 	"revisionasof": "Biloli'o to $1",
 	"revision-info": "Biloli'o per $1 oleh {{GENDER:$6|$2}}$7",
-	"previousrevision": "Biloli'o yilaluma'o",
+	"previousrevision": "← Biloli'o yilaluma'o",
 	"nextrevision": "Biloli'o lapatiyoma'o →",
 	"currentrevisionlink": "Biloli'o pulitiyo",
 	"cur": "mst",

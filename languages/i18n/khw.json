@@ -1,7 +1,6 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80",
 			"BukhariSaeed",
 			"DannyS712",
 			"Fitoschido",
@@ -232,7 +231,6 @@
 	"versionrequired": "میڈیا ویکیو $1 نسخہو لازمی ضرورت شیر",
 	"versionrequiredtext": "ھیہ صفحہو استعمال کوریکو بچے میڈیاویکیو $1 نسخہو ضرورت شیر.\n\n[[Special:Version|version page]]",
 	"ok": "ٹھیک شیر",
-	"pagetitle": "$1 - {{SITENAME}}",
 	"retrievedfrom": "‘‘$1’’ نقل کاردو",
 	"youhavenewmessages": "تہ بچے ای $1 شیر۔ ($2)",
 	"youhavenewmessagesfromusers": "{{PLURAL:$4|آپ کے لیے}} {{PLURAL:$3|کسی دوسرے صارف|$3 صارفین}} کی جانب سے $1 ($2)۔",
@@ -536,8 +534,8 @@
 	"currentrev-asof": "حالیہ نظرثانی بمطابق $1",
 	"revisionasof": "تجدید بمطابق $1",
 	"revision-info": "$2 $1 ھموݰ نیویشیتائے",
-	"previousrevision": "←پرانو تدوین",
-	"nextrevision": "→پروشٹیو اعادہ",
+	"previousrevision": "→ پرانو تدوین",
+	"nextrevision": "پروشٹیو اعادہ ←",
 	"currentrevisionlink": "حالیہ نظرثانی",
 	"cur": "رائج",
 	"next": "پروشٹیو",
@@ -560,7 +558,6 @@
 	"revdelete-log": "وجہ:",
 	"revdel-restore": "ظاہریتو تبدیل کورے",
 	"mergehistory-reason": "وجہ:",
-	"mergehistory-revisionrow": "$1 ($2) $3 . . $4 $5 $6",
 	"mergelog": "نوشتو انضمام",
 	"revertmerge": "غیر ضم",
 	"history-title": "تاریخچہ \"$1\"",
@@ -1158,7 +1155,6 @@
 	"logentry-patrol-patrol-auto": "$1 صفحہ $3 و نسخو $4 خودکار طورا مراجعت شدہ {{GENDER:$2|نشان زد آریر}}",
 	"logentry-newusers-create": "صارف کھاتہ $1 {{GENDER:$2|ساوزیینو ھوئے}}",
 	"logentry-newusers-autocreate": "صارف کھاتہ $1 خودکار طورا {{GENDER:$2|ساوز ہوئے}}",
-	"logentry-upload-upload": "$1 {{GENDER:$2|uploaded}} $3",
 	"logentry-upload-overwrite": "$1 نے $3 و نوغ نسخہ {{GENDER:$2|اپلوڈ آریر}}",
 	"rightsnone": "(نو)",
 	"feedback-message": "پیغام",

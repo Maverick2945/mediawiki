@@ -26,8 +26,7 @@
 			"לערי ריינהארט",
 			"ديفيد",
 			"පසිඳු කාවින්ද",
-			"아라",
-			"Amire80"
+			"아라"
 		]
 	},
 	"tog-underline": "Folínte faoi naisc:",
@@ -236,7 +235,6 @@
 	"versionrequired": "Tá leagan $1 de MediaWiki de dhíth",
 	"versionrequiredtext": "Tá an leagan $1 de MediaWiki riachtanach chun an leathanach seo a úsáid. Féach ar [[Special:Version]]",
 	"ok": "OK",
-	"pagetitle": "$1 - {{SITENAME}}",
 	"retrievedfrom": "Aisghafa ó \"$1\"",
 	"youhavenewmessages": "Tá $1 agat ($2).",
 	"editsection": "cuir in eagar",
@@ -484,6 +482,7 @@
 	"recreate-moveddeleted-warn": "'''Rabhadh: Tá tú ag athchruthú leathanaigh a scriosadh cheana.'''\n\nAn bhfuil tú cinnte go bhfuil sé oiriúnach an leathanach seo a cur in eagar?\nCuirtear an loga scriosta ar fáil anseo mar áis:",
 	"log-fulllog": "Féach ar an logchomhad iomlán",
 	"postedit-confirmation-restored": "Díscriosadh an leathanach.",
+	"undo-failure": "Níorbh fhéidir an t-athrú seo a chur ar ceal mar gheall ar athruithe eile a thagann salach air.",
 	"undo-summary": "Cealaíodh athrú $1 le [[Special:Contributions/$2|$2]] ([[User talk:$2|plé]])",
 	"viewpagelogs": "Féach ar logaí faoin leathanach seo",
 	"nohistory": "Níl aon stáir athraithe ag an leathanach seo.",
@@ -849,6 +848,7 @@
 	"filehist-datetime": "Dáta/Am",
 	"filehist-thumb": "Mionsamhail",
 	"filehist-thumbtext": "Mionsamhail do leagan ó $1",
+	"filehist-nothumb": "Gan mionsamhail",
 	"filehist-user": "Úsáideoir",
 	"filehist-dimensions": "Toisí",
 	"filehist-filesize": "Méid an comhad",
@@ -991,7 +991,7 @@
 	"emailsenttext": "Seoladh do theachtaireacht ríomhphoist go ráthúil.",
 	"watchlist": "Liosta faire",
 	"mywatchlist": "Liosta faire",
-	"watchlistfor2": "Do $1 ($2)",
+	"watchlistfor2": "Do $1",
 	"nowatchlist": "Níl aon rud ar do liosta faire.",
 	"watchlistanontext": "$1, le d'thoil, chun míreanna ar do liosta faire a fheiceáil ná a athrú.",
 	"watchnologin": "Níl tú logáilte isteach",

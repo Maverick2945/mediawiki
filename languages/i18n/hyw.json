@@ -1,7 +1,6 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80",
 			"ArmenBakkalian",
 			"Armeniki",
 			"Azniv Stepanian",
@@ -199,7 +198,6 @@
 	"badaccess-group0": "Արտունութիւն չունիք այս գործողութիւնը կատարել:",
 	"badaccess-groups": "Տուեալ գործողութիւնը միայն $1 {{PLURAL:$2|խումբի|խումբերի}} մասնակիցները կ՛րնան կատարել։",
 	"ok": "Լաւ",
-	"pagetitle": "$1 - {{SITENAME}}",
 	"retrievedfrom": "Վերցուած է «$1» էջէն",
 	"youhavenewmessages": "{{PLURAL:$3|Դուք ունիք}} $1 ($2)։",
 	"youhavenewmessagesfromusers": "{{PLURAL:$4|Դուք ունիք}} $1 {{PLURAL:$3|այլ մասնակից|$3 մասնակիցէն}} ($2):",
@@ -895,6 +893,7 @@
 	"deadendpages": "Յղումներ չունեցող էջեր",
 	"protectedpages": "Պաշտպանուած էջեր",
 	"protectedpages-page": "Էջ",
+	"protectedpages-unknown-timestamp": "Անյայտ",
 	"protectedtitles": "Պաշտպանուած վերնագրեր",
 	"listusers": "Մասնակիցներու ցանկ",
 	"newpages": "Նոր էջեր",
@@ -1016,7 +1015,7 @@
 	"infiniteblock": "Միշտ",
 	"blocklist-editing-page": "էջեր",
 	"blocklist-editing-ns": "անուանատարածքներ",
-	"blocklink": "‎Արգելակել",
+	"blocklink": "‎արգելակել",
 	"contribslink": "Ներդրումներ",
 	"blocklogpage": "արգելակումներու տեղեկատետր",
 	"block-log-flags-nocreate": "մասնակցային հաշիւի ստեղծումը արգիլուած է",
@@ -1209,6 +1208,7 @@
 	"expand_templates_preview": "Կանխաստուգել",
 	"pagelang-name": "Էջ",
 	"pagelang-language": "Լեզու",
+	"mediastatistics-header-unknown": "Անյայտ",
 	"special-characters-group-latin": "Լատիներէն",
 	"special-characters-group-latinextended": "Ընդլայնուած լատիներէն",
 	"special-characters-group-ipa": "Միջ․ Հնչիւնային Այբուբեն (IPA)",

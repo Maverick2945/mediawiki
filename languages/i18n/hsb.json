@@ -19,9 +19,9 @@
 			"Vlad5250",
 			"לערי ריינהארט",
 			"아라",
-			"Amire80",
 			"Reedy",
-			"Sławobóg"
+			"Sławobóg",
+			"Juwan"
 		]
 	},
 	"tog-underline": "Wotkazy podšmórnyć:",
@@ -144,7 +144,7 @@
 	"article": "Nastawk",
 	"newwindow": "(wočinja so w nowym woknje)",
 	"cancel": "Přetorhnyć",
-	"moredotdotdot": "Wjace…",
+	"moredotdotdot": "Wjace...",
 	"morenotlisted": "Tuta lisćina snadź dospołna njeje.",
 	"mypage": "Strona",
 	"mytalk": "Diskusija",
@@ -695,8 +695,6 @@
 	"slot-name-main": "Hłowny",
 	"content-model-wikitext": "wikitekst",
 	"content-model-text": "luty tekst",
-	"content-model-javascript": "JavaScript",
-	"content-model-css": "CSS",
 	"content-json-empty-object": "Pródzny objekt",
 	"content-json-empty-array": "Prózdna pólna wariabla",
 	"unsupported-content-model": "<strong>Kedźbu:</strong> Wobsahowy model $1 so na tutym wikiju njepodpěruje.",
@@ -1466,7 +1464,7 @@
 	"minoreditletter": "S",
 	"newpageletter": "N",
 	"boteditletter": "B",
-	"rc-change-size": "$1 {{PLURAL:$1|bajt|bajtaj|bajty|bajtow}}",
+	"rc-change-size": "$1",
 	"rc-change-size-new": "$1 {{PLURAL:$1|bajt|bajtaj|bajty|bajtow}} po změnje",
 	"newsectionsummary": "Nowy wotrězk: /* $1 */",
 	"rc-old-title": "prěnjotnje wutworjeny jako \"$1\"",

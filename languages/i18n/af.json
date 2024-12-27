@@ -37,8 +37,7 @@
 			"Xethron",
 			"පසිඳු කාවින්ද",
 			"아라",
-			"Hentie",
-			"Amire80"
+			"Hentie"
 		]
 	},
 	"tog-underline": "Onderstreep skakels:",
@@ -164,7 +163,7 @@
 	"article": "Inhoudbladsy",
 	"newwindow": "(verskyn in nuwe venster)",
 	"cancel": "Kanselleer",
-	"moredotdotdot": "Meer…",
+	"moredotdotdot": "Meer...",
 	"morenotlisted": "Dié lys is dalk onvolledig.",
 	"mypage": "Gebruikersblad",
 	"mytalk": "Bespreking",
@@ -549,6 +548,7 @@
 	"botpasswords-bad-appid": "Die botnaam \"$1\" is nie geldig nie.",
 	"botpasswords-toolong-restrictions": "Daar is te veel IP-adresse of reekse ingevoer.",
 	"resetpass_forbidden": "Wagwoorde kannie gewysig word nie.",
+	"resetpass_forbidden-reason": "Wagwoorde kan nie gewysig word nie: $1",
 	"resetpass-no-info": "U moet ingeteken wees om hierdie bladsy direk te kan gebruik.",
 	"resetpass-submit-loggedin": "Verander wagwoord",
 	"resetpass-submit-cancel": "Kanselleer",
@@ -700,8 +700,6 @@
 	"slot-name-main": "Hoof",
 	"content-model-wikitext": "Wikiteks",
 	"content-model-text": "eenvoudige teks",
-	"content-model-javascript": "JavaScript",
-	"content-model-css": "CSS",
 	"content-json-empty-object": "Leë objek",
 	"content-json-empty-array": "Leë reeks",
 	"duplicate-args-category": "Bladsye met dubbele sjabloonparameters",
@@ -1677,6 +1675,7 @@
 	"unusedimages": "Ongebruikte lêers",
 	"wantedcategories": "Gesoekte kategorieë",
 	"wantedpages": "Gesoekte bladsye",
+	"wantedpages-summary": "Lys van nie-bestaande bladsye met die meeste skakels na hulle, uitsluitend bladsye wat slegs aansture het wat na hulle skakel. Sien [[{{#special:BrokenRedirects}}|die lys van gebroke aansture]] vir 'n lys van nie-bestaande bladsye wat aansture het wat na hulle skakel.",
 	"wantedpages-badtitle": "Ongeldige bladsynaam in resultate: $1",
 	"wantedfiles": "Begeerde lêers",
 	"wantedfiletext-cat": "Die volgende lêers word gebruik, maar bestaan nie. Lêers van eksterne biblioteke kan, ondanks die feit dat hulle wel bestaan, ook hier gelys wees. Hierdie vals positiewes word as <del>deurgehaal aangedui</del>. Bladsye met lêers wat nie bestaan nie word aangegee by [[:$1]].",

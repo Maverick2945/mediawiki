@@ -2,7 +2,6 @@
 	"@metadata": {
 		"authors": [
 			"Albert Fazlî",
-			"Amire80",
 			"DannyS712",
 			"Don Alessandro",
 			"Fitoschido",
@@ -17,7 +16,8 @@
 			"לערי ריינהארט",
 			"아라",
 			"TayfunEt.",
-			"Zolgoyo"
+			"Zolgoyo",
+			"Matma Rex"
 		]
 	},
 	"tog-underline": "Sıltamalarnıñ astına sızu:",
@@ -133,7 +133,7 @@
 	"article": "Mäqälä",
 	"newwindow": "(yaña täräzädä açıla)",
 	"cancel": "Baş tartu",
-	"moredotdotdot": "Däwamı…",
+	"moredotdotdot": "Däwamı...",
 	"mypage": "Bit",
 	"mytalk": "Bäxäs",
 	"anontalk": "Bu IP adresı öçen bäxäs bite",
@@ -709,7 +709,6 @@
 	"userrights-nodatabase": "Birelgän $1 bazası yuq yäisä  lokal bulıp tormıy.",
 	"userrights-changeable-col": "Sezneñ taraftan üzgärtä ala torğan törkemnär",
 	"userrights-unchangeable-col": "Sezneñ taraftan üzgärtä almıy torğan törkemnär",
-	"userrights-irreversible-marker": "$1*",
 	"group": "Törkem:",
 	"group-user": "Qullanuçılar",
 	"group-autoconfirmed": "Avtoraslanğan qullanuçı",

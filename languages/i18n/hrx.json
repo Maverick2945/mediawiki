@@ -8,8 +8,7 @@
 			"Macofe",
 			"Matma Rex",
 			"Midnight Gambler",
-			"Paul Beppler",
-			"Amire80"
+			"Paul Beppler"
 		]
 	},
 	"tog-underline": "Link unnerstreiche:",
@@ -593,8 +592,6 @@
 	"editpage-notsupportedcontentformat-text": "Das Inhaltsformat $1 weard vom Inhaltsmodell $2 net unnerstützt.",
 	"content-model-wikitext": "Wikitext",
 	"content-model-text": "Klartext",
-	"content-model-javascript": "JavaScript",
-	"content-model-css": "CSS",
 	"expensive-parserfunction-warning": "'''Achtung:''' Die Seit enthält zu viele Aufrufe uffwändicher Parserfunktione.\n\nDie därref nemehr als wie $2 {{PLURAL:$2|Uffruf|Uffrufe}} honn, do {{PLURAL:$1|ist aktuell $1 Uffruf|sind aktuell $1 Uffrufe}}.",
 	"expensive-parserfunction-category": "Seite, wo uffwändiche Parserfunktione zu oft uffrufe",
 	"post-expand-template-inclusion-warning": "Warnung: Die Gröss ingebundner Voarlooche ist zu gross, eniche Voarlooche könne net ingebund sin.",
@@ -1870,7 +1867,6 @@
 	"ipb_blocked_as_range": "Fehler: Die IP-Adress $1 woard wie en Tel von der Bereichssperr $2 indirekt gesperrt. En Entsperrung von $1 allein ist net möchlich.",
 	"ip_range_invalid": "Ungülticher IP-Adressbereich.",
 	"ip_range_toolarge": "Adressbereiche, wo grösser als /$1 sind, sind net erlaubt.",
-	"proxyblocker": "Proxy blocker",
 	"proxyblockreason": "Dein IP-Adress woard gesperrt, weil die en offner Proxy ist. Bittschön kontaktier dein Internet-Provider orrer dein Systemadministratore und informiere sie üwer das möchliche Sicherheitsproblem.",
 	"sorbsreason": "Die IP-Adress ist in der DNSBL von {{SITENAME}} wie en offner PROXY gelistet (listiert).",
 	"sorbs_create_account_reason": "Die IP-Adress ist in der DNSBL von {{SITENAME}} wie en offner PROXY gelistet (listiert). Das Oonlehn neier Benutzer ist net möchlich.",

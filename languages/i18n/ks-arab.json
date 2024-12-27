@@ -1,7 +1,6 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80",
 			"Iflaq",
 			"Rachitrali",
 			"Rishabhbhat",
@@ -183,7 +182,6 @@
 	"privacypage": "Project:رازدٲری اصوٗل",
 	"badaccess": "اِجازَت چھُ نہٕ",
 	"ok": "ٹھیٖک چھُ",
-	"pagetitle": "$1 - {{SITENAME}}",
 	"backlinksubtitle": "→ $1",
 	"retrievedfrom": "$1 پؠٹھٕ اِستِمال کۄٚرمُت",
 	"youhavenewmessages": "{{PLURAL:$3|تُہؠ چھُ}} $1 ($2)",
@@ -440,7 +438,7 @@
 	"currentrev-asof": "نٔو گَردان $1 بَجے",
 	"revisionasof": "گَردان $1 بَجے",
 	"revision-info": "گَردان $1 بَجے اؠڑِٹَر {{GENDER:$6|$2}} $7",
-	"previousrevision": "→امہ پرٛون نُسقہٕ",
+	"previousrevision": "→ امہ پرٛون نُسقہٕ",
 	"nextrevision": "امہ پَتُک نُسقہٕ ←",
 	"currentrevisionlink": "تازٕ گردان",
 	"cur": "موجودٕ",
@@ -724,7 +722,6 @@
 	"minoreditletter": "ل",
 	"newpageletter": "نٔو",
 	"boteditletter": "ب",
-	"unpatrolledletter": "!",
 	"rc-change-size-new": "بَدلاوَس پَتہٕ {{PLURAL:$1|بایٖٹ}}",
 	"newsectionsummary": "/* $1 */ نٔو حِصہٕ",
 	"rc-old-title": "اصل تَخلیٖق چھِ ''$1'' ناوٕچ",

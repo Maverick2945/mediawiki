@@ -2,7 +2,6 @@
 	"@metadata": {
 		"authors": [
 			"Alefbeis",
-			"Amire80",
 			"Castillerian",
 			"Chaim Shel",
 			"Har-wradim",
@@ -151,7 +150,7 @@
 	"article": "אינהאלט בלאט",
 	"newwindow": "(עפֿנט זיך אין א נײַעם פענסטער)",
 	"cancel": "אַנולירן",
-	"moredotdotdot": "נאָך…",
+	"moredotdotdot": "נאָך...",
 	"morenotlisted": "די ליסטע איז אפשר נישט פֿולשטענדיק.",
 	"mypage": "בלאַט",
 	"mytalk": "שמועס",
@@ -718,8 +717,6 @@
 	"slot-name-main": "הויפט",
 	"content-model-wikitext": "וויקיטעקסט",
 	"content-model-text": "פשוטער טעקסט",
-	"content-model-javascript": "JavaScript",
-	"content-model-css": "CSS",
 	"content-json-empty-object": "ליידיגער אביעקט",
 	"content-json-empty-array": "ליידיגער אריי",
 	"duplicate-args-warning": "<strong>ווארענונג:</strong> [[:$1]] רופט [[:$2]] מיט מער ווי איין ווערט פארן פאראמעטער \"$3\". נאר דעם לעצטן ווערט וועט מען ניצן.",
