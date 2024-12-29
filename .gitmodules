@@ -377,3 +377,6 @@
 [submodule "extensions/TemplateWizard"]
 	path = extensions/TemplateWizard
 	url = https://github.com/wikimedia/mediawiki-extensions-TemplateWizard.git
+[submodule "extensions/ContainerFilter"]
+	path = extensions/ContainerFilter
+	url = https://github.com/wikimedia/mediawiki-extensions-ContainerFilter.git
