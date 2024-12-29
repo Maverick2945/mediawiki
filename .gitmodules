@@ -362,3 +362,6 @@
 [submodule "extensions/PreToClip"]
 	path = extensions/PreToClip
 	url = https://github.com/wikimedia/mediawiki-extensions-PreToClip.git
+[submodule "extensions/UserExport"]
+	path = extensions/UserExport
+	url = https://github.com/wikimedia/mediawiki-extensions-UserExport
