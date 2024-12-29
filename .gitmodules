@@ -374,3 +374,6 @@
 [submodule "extensions/LoginNotify"]
 	path = extensions/LoginNotify
 	url = https://github.com/wikimedia/mediawiki-extensions-LoginNotify
+[submodule "extensions/TemplateWizard"]
+	path = extensions/TemplateWizard
+	url = https://github.com/wikimedia/mediawiki-extensions-TemplateWizard.git
