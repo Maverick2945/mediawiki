@@ -365,3 +365,6 @@
 [submodule "extensions/UserExport"]
 	path = extensions/UserExport
 	url = https://github.com/wikimedia/mediawiki-extensions-UserExport
+[submodule "extensions/LinkSuggest"]
+	path = extensions/LinkSuggest
+	url = https://github.com/wikimedia/mediawiki-extensions-LinkSuggest.git
