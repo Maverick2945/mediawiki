@@ -368,9 +368,6 @@
 [submodule "extensions/LinkSuggest"]
 	path = extensions/LinkSuggest
 	url = https://github.com/wikimedia/mediawiki-extensions-LinkSuggest.git
-[submodule "extensions/SubpageNavigation"]
-	path = extensions/SubpageNavigation
-	url = https://github.com/wikimedia/mediawiki-extensions-LinkSuggest.git
 [submodule "extensions/LoginNotify"]
 	path = extensions/LoginNotify
 	url = https://github.com/wikimedia/mediawiki-extensions-LoginNotify
