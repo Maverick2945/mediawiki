@@ -377,3 +377,6 @@
 [submodule "extensions/ContainerFilter"]
 	path = extensions/ContainerFilter
 	url = https://github.com/wikimedia/mediawiki-extensions-ContainerFilter.git
+[submodule "extensions/SubpageNavigation"]
+	path = extensions/SubpageNavigation
+	url = https://github.com/wikimedia/mediawiki-extensions-SubpageNavigation.git
