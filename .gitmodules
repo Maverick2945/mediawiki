@@ -383,3 +383,6 @@
 [submodule "extensions/BPMNWiki"]
 	path = extensions/BPMNWiki
 	url = https://github.com/alainperry/BPMNWiki.git
+[submodule "extensions/InlineComments"]
+	path = extensions/InlineComments
+	url = https://github.com/wikimedia/mediawiki-extensions-InlineComments.git
