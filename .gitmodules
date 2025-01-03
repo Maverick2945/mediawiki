@@ -386,3 +386,6 @@
 [submodule "extensions/InlineComments"]
 	path = extensions/InlineComments
 	url = https://github.com/wikimedia/mediawiki-extensions-InlineComments.git
+[submodule "extensions/OOJSPlus"]
+	path = extensions/OOJSPlus
+	url = https://github.com/wikimedia/mediawiki-extensions-OOJSPlus.git
