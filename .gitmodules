@@ -380,3 +380,6 @@
 [submodule "extensions/SubpageNavigation"]
 	path = extensions/SubpageNavigation
 	url = https://github.com/wikimedia/mediawiki-extensions-SubpageNavigation.git
+[submodule "extensions/BPMNWiki"]
+	path = extensions/BPMNWiki
+	url = https://github.com/alainperry/BPMNWiki.git
