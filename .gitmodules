@@ -389,3 +389,6 @@
 [submodule "extensions/OOJSPlus"]
 	path = extensions/OOJSPlus
 	url = https://github.com/wikimedia/mediawiki-extensions-OOJSPlus.git
+[submodule "extensions/SocialProfile"]
+	path = extensions/SocialProfile
+	url = https://github.com/wikimedia/mediawiki-extensions-SocialProfile.git
