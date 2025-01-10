@@ -392,3 +392,6 @@
 [submodule "extensions/SocialProfile"]
 	path = extensions/SocialProfile
 	url = https://github.com/wikimedia/mediawiki-extensions-SocialProfile.git
+[submodule "extensions/Description2"]
+	path = extensions/Description2
+	url = https://github.com/wikimedia/mediawiki-extensions-Description2.git
