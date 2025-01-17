@@ -395,3 +395,6 @@
 [submodule "extensions/Description2"]
 	path = extensions/Description2
 	url = https://github.com/wikimedia/mediawiki-extensions-Description2.git
+[submodule "extensions/VEForAll"]
+	path = extensions/VEForAll
+	url = https://github.com/wikimedia/mediawiki-extensions-VEForAll.git
