@@ -398,3 +398,6 @@
 [submodule "extensions/VEForAll"]
 	path = extensions/VEForAll
 	url = https://github.com/wikimedia/mediawiki-extensions-VEForAll.git
+[submodule "extensions/CommentStreams"]
+	path = extensions/CommentStreams
+	url = https://github.com/wikimedia/mediawiki-extensions-CommentStreams.git
