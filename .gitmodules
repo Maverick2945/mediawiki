@@ -401,3 +401,6 @@
 [submodule "extensions/CommentStreams"]
 	path = extensions/CommentStreams
 	url = https://github.com/wikimedia/mediawiki-extensions-CommentStreams.git
+[submodule "extensions/MsUpload"]
+	path = extensions/MsUpload
+	url = https://github.com/wikimedia/mediawiki-extensions-MsUpload
