@@ -404,3 +404,6 @@
 [submodule "extensions/MsUpload"]
 	path = extensions/MsUpload
 	url = https://github.com/wikimedia/mediawiki-extensions-MsUpload
+[submodule "extensions/MsLinks"]
+	path = extensions/MsLinks
+	url = https://github.com/wikimedia/mediawiki-extensions-MsLinks.git
