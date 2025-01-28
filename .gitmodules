@@ -407,3 +407,6 @@
 [submodule "extensions/MsLinks"]
 	path = extensions/MsLinks
 	url = https://github.com/wikimedia/mediawiki-extensions-MsLinks.git
+[submodule "extensions/SimpleBatchUpload"]
+	path = extensions/SimpleBatchUpload
+	url = https://github.com/ProfessionalWiki/SimpleBatchUpload.git
