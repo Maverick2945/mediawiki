@@ -410,3 +410,6 @@
 [submodule "extensions/SimpleBatchUpload"]
 	path = extensions/SimpleBatchUpload
 	url = https://github.com/ProfessionalWiki/SimpleBatchUpload.git
+[submodule "extensions/Widgets"]
+	path = extensions/Widgets
+	url = https://github.com/wikimedia/mediawiki-extensions-Widgets.git
