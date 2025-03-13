@@ -169,8 +169,8 @@ function wfImageAuthMain() {
 
 		# Logos immer anzeigen (MMA - auch bei privaten Wikis, wenn man nicht angemeldet ist)
 		$isFavicon = strcmp($title->mUrlform , 'CW_WIKI_FAVICON.ico') === 0;
-		$isLogo = strcmp($title->mUrlform , 'CW_WIKI_LOGO.png') === 0;
-		$isAppleTouchLogo = strcmp($title->mUrlform , 'CW_APPLE_TOUCH_LOGO.png') === 0;
+		$isLogo = strcmp($title->mUrlform , 'CW_WIKI_LOGO.png') === 0 || strcmp($title->mUrlform , 'CW_WIKI_LOGO.svg') === 0;
+		$isAppleTouchLogo = strcmp($title->mUrlform , 'CW_APPLE_TOUCH_LOGO.png') === 0 || strcmp($title->mUrlform , 'CW_APPLE_TOUCH_LOGO.svg') === 0;
 		$isInternalLogo = ($isFavicon || $isLogo || $isAppleTouchLogo);
 
 		// Zugriff verbieten, wenn der Benutzer keine Leserechte hat und es sich um kein internes Logo handelt
