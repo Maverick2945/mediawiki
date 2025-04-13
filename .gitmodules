@@ -413,3 +413,6 @@
 [submodule "extensions/Widgets"]
 	path = extensions/Widgets
 	url = https://github.com/wikimedia/mediawiki-extensions-Widgets.git
+[submodule "extensions/MobileApp"]
+	path = extensions/MobileApp
+	url = https://github.com/wikimedia/mediawiki-extensions-MobileApp.git
