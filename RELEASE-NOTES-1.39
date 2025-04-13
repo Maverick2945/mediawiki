@@ -6,6 +6,56 @@ PHP 8.2 workboard: https://phabricator.wikimedia.org/tag/php_8.2_support/
 PHP 8.3 workboard: https://phabricator.wikimedia.org/tag/php_8.3_support/
 PHP 8.4 workboard: https://phabricator.wikimedia.org/tag/php_8.4_support/
 
+== MediaWiki 1.39.12 ==
+
+This is a security and maintenance release of the MediaWiki 1.39 branch.
+
+=== Changes since 1.39.11 ===
+* Localisation updates.
+* (T380755) session: Do not set session.use_trans_sid.
+* (T382987) $wgDnsBlacklistUrls now defaults to an empty array. See the comment
+  in the "Configuration changes for system administrators" section.
+* (T382484) dumps: Use proc_close() to close proc_open() subprocess.
+* (T315202) Account for null values in Exif data.
+* (T384879) FormatMetadata: Prevent running preg_match() on null.
+* (T384995) specialpage: Improve handling of invalid lang codes on login/signup.
+* (T385169) MultiUsernameFilter: Don't try to split ids if they're not a string.
+* (T319219) Fix Site::getPath() + MediaWikiSite::getFileUrl() confusion.
+* (T385332) feeds: Fix str_replace() deprecation warnings on PHP 8.
+* (T379125) exception: Suppress dependency loop exception.
+* (T381033) RateLimiter: Fix peek mode.
+* (T387130, CVE-2025-32699) SECURITY: Update wikimedia/parsoid to 0.16.5.
+* (T385519) Sanitizer::normalizeWhitespace warn on preg_replace error.
+* (T387638) RevDelList: Ensure setVisibility always includes itemStatuses in
+  value if applicable.
+* (T388296) ImportImages: Exit with non-zero code if import fails.
+* Request: Improve log message when headers already sent.
+* (T388066) Avoid trying to load the session user in MW_NO_SESSION endpoints.
+* (T388171) HttpError: Cast Message to string.
+* (T388255) ApiLogin: Don't break BotPasswords if password or user is blank,
+  just error.
+* (T388728, T385519) Sanitizer::normalizeSectionNameWhitespace: Apply same
+  anti-null fix as 270499b.
+* (T387690) upload: Suppress warnings from iconv().
+* (T388733) Sanitizer::normalizeWhitespace: simplify redundant preg_replace.
+* (T304474, CVE-2025-32696) SECURITY: Apply proper restrictions on file revert
+  action.
+* (T388924) MagicWord::replace*: Make sure we don't pass null into preg_match/
+  preg_replace.
+* (T390063, T277675) ResourceLoader: update wikimedia/minify to 2.9.0.
+* (T368921) ResourceLoader: Set "math=always" before Less.php 5.0 upgrade.
+* (T384851) FileBackend: PHP Deprecated: strrpos(): Passing null to parameter #1
+  ($haystack).
+* In .htaccess deny files, use "Satisfy All".
+* (T389028) block: Fix DBS::acquireTarget() race using GET_LOCK().
+* permissions: Check cascade protection only if page can exists.
+* (T385958, CVE-2025-32698) SECURITY: LogPager.php: Restriction enforcer
+  functions do not correctly enforce suppression restrictions,
+* (T387130, CVE-2025-32699) SECURITY: Potential javascript injection attack
+  enabled by Unicode normalization in Action API.
+* (T358689, CVE-2025-3469) SECURITY: i18n XSS vulnerability in
+  HTMLMultiSelectField when sections are used.
+
 == MediaWiki 1.39.11 ==
 
 This is a maintenance release of the MediaWiki 1.39 branch.
@@ -439,6 +489,11 @@ Some specific notes for MediaWiki 1.39 upgrades are below:
 For notes on 1.38.x and older releases, see HISTORY.
 
 === Configuration changes for system administrators in 1.39 ===
+* (T382987) The default value of 'http.dnsbl.sorbs.net.' in $wgDnsBlacklistUrls
+  has been removed. This is because sorbs.net have stopped providing their
+  services. This means that if you have $wgEnableDnsBlacklist set to true, it
+  will no longer provide any value unless you add other servers to
+  $wgDnsBlacklistUrls.
 
 ==== New configuration ====
 * $wgAutoCreateTempUser – This configures automatic user creation on page save.

@@ -1864,6 +1864,8 @@ MESSAGE;
 
 		$parser = new Less_Parser;
 		$parser->ModifyVars( $vars );
+		$parser->SetOption( 'math', 'always' );
+
 		// SetImportDirs expects an array like [ 'path1' => '', 'path2' => '' ]
 		$parser->SetImportDirs( array_fill_keys( $importDirs, '' ) );
 		$parser->SetOption( 'relativeUrls', false );

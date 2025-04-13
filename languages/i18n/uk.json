@@ -98,7 +98,8 @@
 			"Ignatgg",
 			"Constraque",
 			"Mike.Khoroshun",
-			"Hypers"
+			"Hypers",
+			"METROKOP228 UA"
 		]
 	},
 	"tog-underline": "Підкреслювання посилань:",
@@ -700,8 +701,8 @@
 	"watchthis": "Спостерігати за цією сторінкою",
 	"savearticle": "Зберегти сторінку",
 	"savechanges": "Зберегти зміни",
-	"publishpage": "Зберегти сторінку",
-	"publishchanges": "Зберегти зміни",
+	"publishpage": "Опублікувати сторінку",
+	"publishchanges": "Опублікувати зміни",
 	"savearticle-start": "Зберегти сторінку...",
 	"savechanges-start": "Зберегти зміни...",
 	"publishpage-start": "Опублікувати сторінку...",
@@ -3682,7 +3683,7 @@
 	"protectpage": "Захист сторінки",
 	"specialprotectpage-page": "Цільова сторінка",
 	"specialprotectpage-submit": "Перейти до сторінки",
-	"purge": "Очистити",
+	"purge": "Очистити кеш сторінки",
 	"specialpurge-page": "Цільова сторінка",
 	"specialpurge-submit": "Перейти на сторінку",
 	"dberr-problems": "Вибачте! На цьому сайті виникли технічні труднощі.",
