@@ -416,3 +416,6 @@
 [submodule "extensions/MobileApp"]
 	path = extensions/MobileApp
 	url = https://github.com/wikimedia/mediawiki-extensions-MobileApp.git
+[submodule "extensions/NSFileRepo"]
+	path = extensions/NSFileRepo
+	url = https://github.com/wikimedia/mediawiki-extensions-NSFileRepo.git
