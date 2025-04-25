@@ -419,3 +419,6 @@
 [submodule "extensions/NSFileRepo"]
 	path = extensions/NSFileRepo
 	url = https://github.com/wikimedia/mediawiki-extensions-NSFileRepo.git
+[submodule "extensions/FlexDiagrams"]
+	path = extensions/FlexDiagrams
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlexDiagrams.git
