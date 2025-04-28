@@ -422,3 +422,6 @@
 [submodule "extensions/FlexDiagrams"]
 	path = extensions/FlexDiagrams
 	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/FlexDiagrams.git
+[submodule "extensions/AutoSitemap"]
+	path = extensions/AutoSitemap
+	url = https://github.com/dolfinus/AutoSitemap.git
