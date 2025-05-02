@@ -428,3 +428,6 @@
 [submodule "extensions/WikiForum"]
 	path = extensions/WikiForum
 	url = https://github.com/wikimedia/mediawiki-extensions-WikiForum.git
+[submodule "skins/Citizen"]
+	path = skins/Citizen
+	url = https://github.com/StarCitizenTools/mediawiki-skins-Citizen
