@@ -425,3 +425,6 @@
 [submodule "extensions/AutoSitemap"]
 	path = extensions/AutoSitemap
 	url = https://github.com/dolfinus/AutoSitemap.git
+[submodule "extensions/WikiForum"]
+	path = extensions/WikiForum
+	url = https://github.com/wikimedia/mediawiki-extensions-WikiForum.git
