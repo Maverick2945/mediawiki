@@ -431,3 +431,6 @@
 [submodule "skins/Citizen"]
 	path = skins/Citizen
 	url = https://github.com/StarCitizenTools/mediawiki-skins-Citizen
+[submodule "skins/Minerva"]
+	path = skins/Minerva
+	url = https://gitlab.com/caindle-cloud/minverva.git
