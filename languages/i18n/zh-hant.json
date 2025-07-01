@@ -145,7 +145,9 @@
 			"Arielyurusova",
 			"Anterdc99",
 			"優枰",
-			"Emojiwiki"
+			"Emojiwiki",
+			"1F616EMO",
+			"SCP-2000"
 		]
 	},
 	"tog-underline": "底線標示連結：",
@@ -478,7 +480,7 @@
 	"perfcached": "以下為快取資料，可能不是最新的。 快取資料最多可儲存 {{PLURAL:$1|1 筆結果|$1 筆結果}}。",
 	"perfcachedts": "以下為快取資料，最後更新時間為 $1。快取資料最多可儲存 {{PLURAL:$4|1 筆結果|$4 筆結果}}。",
 	"querypage-no-updates": "目前已停用此頁面的更新功能。\n在此頁面的資料不會被立即更新。",
-	"querypage-updates-periodical": "此頁面的更新為定期運作。",
+	"querypage-updates-periodical": "此頁面定期更新。",
 	"viewsource": "檢視原始碼",
 	"skin-action-viewsource": "檢視原始碼",
 	"viewsource-title": "檢視 $1 的原始碼",
@@ -2468,7 +2470,7 @@
 	"delete-talk-summary-prefix": "已同關聯頁面一併刪除，理由: $1",
 	"historywarning": "<strong>警告：</strong>您正要刪除的頁面內含$1次{{PLURAL:$1|的修訂}}歷史：",
 	"historyaction-submit": "顯示修訂",
-	"confirmdeletetext": "您正要刪除頁面或圖片及其所有歷史，請確定您要這樣做，並了解後果，而且行為符合[[{{MediaWiki:Policy-url}}|方針]]。",
+	"confirmdeletetext": "您即將刪除一個頁面或圖像以及其歷史。\n\n請確定您要進行此項操作，並且了解其後果，同時您的行為符合[[{{MediaWiki:Policy-url}}|方針]]。",
 	"actioncomplete": "操作完成",
 	"actionfailed": "操作失敗",
 	"deletedtext": "已刪除「$1」。請參考$2檢視最近的刪除記錄。",

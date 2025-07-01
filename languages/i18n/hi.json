@@ -117,7 +117,8 @@
 			"Karthi.dr",
 			"Cabal",
 			"Bunnypranav",
-			"Mithun 477"
+			"Mithun 477",
+			"DreamRimmer"
 		]
 	},
 	"tog-underline": "रेखांकित कड़ियाँ:",
@@ -915,8 +916,8 @@
 	"rev-deleted-user": "(सदस्यनाम हटाया)",
 	"rev-deleted-event": "(लॉग विवरण हटाया)",
 	"rev-deleted-user-contribs": "[सदस्यनाम अथवा आइ॰पी पता छुपाया गया - सम्पादन योगदानों में से छुपाया गया]",
-	"rev-deleted-text-permission": "यह पृष्ठ अवतरण हटाया गया है।\nइसकी अधिक जानकारी [{{fullurl:{{#Special:Log}}/delete|page=$1}} हटाने की लॉग] में पाई जा सकती है।",
-	"rev-suppressed-text-permission": "यह पृष्ठ अवतरण '''छिपाया गया है'''।\nआप इसे देख सकते हैं; विवरण [{{fullurl:{{#Special:Log}}/suppress|page=$1}} छुपाने की लॉग] में पाया जा सकता है।",
+	"rev-deleted-text-permission": "यह पृष्ठ अवतरण <strong>हटाया</strong> गया है।\nइसकी अधिक जानकारी [{{fullurl:{{#Special:Log}}/delete|page=$1}} हटाने की लॉग] में पाई जा सकती है।",
+	"rev-suppressed-text-permission": "यह पृष्ठ अवतरण <strong>छिपाया</strong> गया है।\nआप इसे देख सकते हैं; विवरण [{{fullurl:{{#Special:Log}}/suppress|page=$1}} छुपाने की लॉग] में पाया जा सकता है।",
 	"rev-deleted-text-unhide": "यह पृष्ठ अवतरण हटाया गया है।\nइसकी अधिक जानकारी [{{fullurl:{{#Special:Log}}/delete|page={{FULLPAGENAMEE}}}} हटाने की लॉग] में पाई जा सकती है।\nयदि आप चाहें तो इस अवतरण को [$1 देख सकते हैं]।",
 	"rev-suppressed-text-unhide": "यह पृष्ठ अवतरण '''छिपाया गया है'''। विवरण [{{fullurl:{{#Special:Log}}/suppress|page={{FULLPAGENAMEE}}}} छुपाने की लॉग] पर देखा जा सकता है।\nयदि आप चाहें तो इस अवतरण को [$1 देख सकते हैं]।",
 	"rev-deleted-text-view": "यह पृष्ठ अवतरण हटाया गया है।\nआप इसे देख सकते हैं; विवरण [{{fullurl:{{#Special:Log}}/delete|page=$1}} हटाने की लॉग] में पाया जा सकता है।",
@@ -1042,7 +1043,7 @@
 	"nextn-title": "{{PLURAL:$1|अगला|अगले}} $1 परिणाम",
 	"shown-title": "हर पृष्ठ पर $1 {{PLURAL:$1|परिणाम}} दिखाएँ",
 	"viewprevnext": "देखें ($1 {{int:pipe-separator}} $2) ($3)",
-	"searchmenu-exists": "{{SITENAME}} पर \"[[:$1]]\" नामक एक पृष्ठ मौजूद है| {{PLURAL:$2|0=|अन्य खोज परिणाम भी देखें|}}",
+	"searchmenu-exists": "{{SITENAME}} पर \"[[:$1]]\" नामक एक पृष्ठ मौजूद है। {{PLURAL:$2|0=|अन्य खोज परिणाम भी देखें।}}",
 	"searchmenu-new": "इस विकि पर \"[[:$1]]\" नाम का पृष्ठ बनाएँ! {{PLURAL:$2|0=|आपकी खोज से मिला पृष्ठ भी देखें।|खोज परिणाम भी देखें।}}",
 	"searchprofile-articles": "सामग्री पृष्ठ",
 	"searchprofile-images": "मल्टीमीडिया",
